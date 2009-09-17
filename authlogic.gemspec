@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
      "VERSION.yml",
      "authlogic.gemspec",
      "generators/session/session_generator.rb",
-     "generators/session/templates/session.rb",
+     "generators/session/templates/session.erb",
      "init.rb",
      "lib/authlogic.rb",
      "lib/authlogic/acts_as_authentic/base.rb",
